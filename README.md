@@ -1,6 +1,6 @@
 # C214 Seminário React
 
-C214 - Engenharia de Software - Seminário
+C214 - Engenharia de Software - Seminário.
 
 <table>
   <tr>
