@@ -1,0 +1,6 @@
+
+    <h1>Relatório de Testes</h1>
+    <p>Total de testes: 5</p>
+    <p>Testes passados: 5</p>
+    <p>Testes falhados: 0</p>
+  
