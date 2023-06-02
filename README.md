@@ -2,9 +2,9 @@
 
 C214 - Engenharia de Software - Seminário
 
+**Tema escolhido:**
 <table>
   <tr>
-    <td><h3>Tema escolhido:</h3></td> 
     <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
    </tr>
 </table>
