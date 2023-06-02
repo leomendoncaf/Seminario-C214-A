@@ -20,7 +20,7 @@ Certifique-se de ter o Node.js instalado em seu sistema antes de prosseguir.
 1. Faça o clone deste repositório para o seu ambiente local.
 
 ```
-git clone https://github.com/leomendoncaf/Seminario-C214-A.git
+git clone https://github.com/leomendoncaf/Seminario-C214-A
 ```
 
 2. Navegue até o diretório do projeto.
