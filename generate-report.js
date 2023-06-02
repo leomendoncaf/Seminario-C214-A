@@ -33,10 +33,6 @@ async function runTests() {
 }
 
 function generateReportContent(results) {
-  // Implemente a lógica para gerar o conteúdo do relatório com base nos resultados dos testes
-  // Você pode percorrer os resultados e extrair as informações relevantes para o relatório
-
-  // Exemplo: Gere um relatório simples com o número de testes executados
   const totalTests = results.numTotalTests;
   const passedTests = results.numPassedTests;
   const failedTests = results.numFailedTests;
